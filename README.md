@@ -26,6 +26,7 @@
 
 ## 💼 Featured Work
 
+- **Leads4u.pk**: Laravel + Python platform that scrapes business leads and runs website audits, helping agencies and freelancers find and qualify prospects
 - **Ventra**: Laravel SaaS covering the full client journey from first lead to final invoice, with client, admin, super-admin, team lead and team portals
 - **LayoffHub**: workforce intelligence platform tracking and analysing company layoffs globally
 - **Garment Production Tracking System**: tracks lots, packages and articles through every department from embroidery to dispatch
