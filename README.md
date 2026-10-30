@@ -8,7 +8,7 @@
 - 🚀 I've built SaaS platforms, PWAs, role-based dashboards, ticketing platforms, and management systems
 - 🌱 I'm currently learning advanced AI integrations and scalable SaaS architecture
 - 💞️ I'm looking to collaborate on medium to large web, SaaS, and automation projects
-- 📫 How to reach me: +92 312 5382114 | [amirshahzad7137@gmail.com](mailto:amirshahzad7137@gmail.com)
+- 📫 How to reach me: +92 312 5382114 | [amirshahzad71371@gmail.com](mailto:amirshahzad71371@gmail.com)
 - 📍 Lahore, Pakistan | 🟢 Open for work
 
 ## 🛠️ Tech Stack
