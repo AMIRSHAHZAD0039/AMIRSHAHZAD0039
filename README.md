@@ -4,7 +4,7 @@
 
 - 👋 Hi, I'm @AMIRSHAHZAD0039, COO at @OOTechnologies
 - ⚙️ I'm an **AI Automation Engineer**: n8n, Make, Zapier, GoHighLevel, Twilio, OpenAI & REST APIs
-- 💻 I'm a **WordPress & Laravel Developer**: Laravel 11/12, PHP, React, Next.js, WordPress, Shopify
+- 💻 I'm a **WordPress & Laravel Developer**: Laravel 12/13, PHP, React, Next.js, WordPress, Shopify
 - 🚀 I've built SaaS platforms, PWAs, role-based dashboards, ticketing platforms, and management systems
 - 🌱 I'm currently learning advanced AI integrations and scalable SaaS architecture
 - 💞️ I'm looking to collaborate on medium to large web, SaaS, and automation projects
